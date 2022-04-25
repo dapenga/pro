@@ -12,7 +12,7 @@ public class BootConfig {
 
     public User newUser(){
         User user = new User();
-        user.setUserName("
+        user.setUserName("张三");
         return user;
     }
 
